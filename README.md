@@ -10,7 +10,8 @@ Currently looking for software engineering, full-stack web development, and UI/U
 
 ### Experience
 
-- C++ (socket programming, client/surver communication)
+- C (kernel programming, socket programming, client/surver communication)
+- C++ (algorithm optimization, data structures, object oriented programming)
 - JavaScript (React, Next.js, Node.js)
 - Python (numpy, matplotlib, Jupyter Notebook)
 - HTML/CSS (SASS, figma prototyping, responsive web design, search engine optimization)

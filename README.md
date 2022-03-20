@@ -14,11 +14,9 @@ Currently looking for software development engineering, full-stack development, 
 - C++ (algorithm optimization, data structures, object oriented programming, basic graphic programming)
 - JavaScript (React, Next.js, Node.js)
 - Python (computational science and machine learning using pytorch, numpy, matplotlib, Jupyter Notebook)
-- HTML/CSS (SASS, figma prototyping, responsive web design, search engine optimization)
-- Java
+- UI/UX Design (HTML/CSS/SASS, figma prototyping, fully mobile-responsive web design)
 - Database management (MongoDB, SQL, Datalog)
 - Server management (Heroku, Vercel)
-- LaTeX
 - Team programming and test-driven development (Git, GitHub)
 - Search Engine Optimization
 - Building responsive, scalable, and production-ready applications

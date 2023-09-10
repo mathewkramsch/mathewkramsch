@@ -1,15 +1,12 @@
 ## 👋 **Hey! I'm Mathew.**  
 
-Software developer and diligent fifth year computer science student at **UC Santa Barbara**
-
-Currently looking for software development engineering, full-stack development, and front-end development opportunities. 
-
-[Personal Website](https://www.mathewkramsch.com)
+Full-Stack Software developer at **Veeva Systems**
 
 ---
 
 ### Experience
 
+- Java (Spring, ActiveMQ, working with threads and stuff)
 - C (kernel programming, socket programming, client/surver communication)
 - C++ (algorithm optimization, data structures, object oriented programming, basic graphic programming)
 - JavaScript (React, Next.js, Node.js)
@@ -25,4 +22,4 @@ Currently looking for software development engineering, full-stack development, 
 
 ### Contact
 
-✉️ email • [mathewkramsch@ucsb.edu ](mailto:mathewkramsch@ucsb.edu)
+✉️ email • [mathewkramsch@gmail.com](mailto:mathewkramsch@gmail.com)

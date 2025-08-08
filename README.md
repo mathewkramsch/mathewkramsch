@@ -6,7 +6,7 @@ Full-Stack Software developer at **Veeva Systems**
 
 ### Experience
 
-- Java (Spring, ActiveMQ, working with threads and stuff)
+- Java (Spring, ActiveMQ, JDBC, JMS, concurrency and multithreading)
 - C (kernel programming, socket programming, client/surver communication)
 - C++ (algorithm optimization, data structures, object oriented programming, basic graphic programming)
 - JavaScript (React, Next.js, Node.js)

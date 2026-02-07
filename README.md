@@ -6,16 +6,14 @@ Full-Stack Software developer at **Veeva Systems**
 
 ### Experience
 
-- Java (Spring, ActiveMQ, JDBC, JMS, concurrency and multithreading)
+- Java (Spring, Hibernate, ActiveMQ, JDBC, JMS, concurrency and multithreading)
 - C (kernel programming, socket programming, client/surver communication)
-- C++ (algorithm optimization, data structures, object oriented programming, basic graphic programming)
+- C++ (algorithm optimization, data structures, object oriented programming, graphic programming)
 - JavaScript (React, Next.js, Node.js)
-- Python (computational science and machine learning using pytorch, numpy, matplotlib, Jupyter Notebook)
+- Python (computational science and machine learning using pytorch, numpy, matplotlib)
 - UI/UX Design (HTML/CSS/SASS, figma prototyping, fully mobile-responsive web design)
-- Database management (MongoDB, SQL, Datalog)
+- Database management (SQL, MongoDB, Datalog)
 - Server management (Heroku, Vercel)
-- Team programming and test-driven development (Git, GitHub)
-- Search Engine Optimization
 - Building responsive, scalable, and production-ready applications
 
 ---
